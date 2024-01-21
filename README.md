@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [a Blog website](https://github.com/zanzo2003/nodejs-blog)
+- 🔭 I’m currently working on [web fullstack project](https://github.com/zanzo2003/Desikalakar-EPICS-Project)
 
 - 🌱 I’m currently learning **Node, Express and React**
 
