@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bhaskarshashwath@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PeCN_ROEeRmxCtjPb06-Qhug3tcNS4zV/view?usp=sharing](https://drive.google.com/file/d/1PeCN_ROEeRmxCtjPb06-Qhug3tcNS4zV/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1EqkoCguCQZ2hn6SazgutLJVa74CQiZky/view?usp=sharing)
 
 - ⚡ Fun fact **I like reading books**
 
