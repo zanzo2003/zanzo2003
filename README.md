@@ -21,13 +21,13 @@ I'm a passionate developer interested in full-stack development with expertise i
 - 🌱 I'm currently learning **DevOps and System Design (I try to solve LeetCode every day)**
 - 👯 I'm looking to collaborate on **innovative open-source projects**
 - 💬 Ask me about **Java, C++, JavaScript, TypeScript, Spring Boot, Spring, Node.js, React.js, Angular.js**
-- ⚡ Fun fact: **I love solving real-world problems with software solutiosn**
+- ⚡ Fun fact: **I love solving real-world problems with software solutions**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,cpp,java,springboot,spring,angular,mongodb,mysql,firebase,aws,docker,git,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,cpp,java,spring,angular,rabbitmq,jenkins,kong,redis,postgres,mongodb,mysql,firebase,aws,docker,git,vscode&perline=5)](https://skillicons.dev)
 
 </div>
 
