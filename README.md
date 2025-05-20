@@ -1,8 +1,8 @@
-# <div align="center">👋 Hello, I'm Zanzo!</div>
+# <div align="center">👋 Hello, I'm Shashwath!</div>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Explorer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Spring+Boot;ReactJs+Angular)
 
 <img src="https://komarev.com/ghpvc/?username=zanzo2003&style=flat-square&color=blue" alt="Profile views"/>
 
@@ -13,15 +13,15 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-I'm a passionate developer interested in full-stack development, machine learning, and cybersecurity. When I'm not coding, you can find me exploring new technologies or contributing to open-source projects.
+I'm a passionate developer interested in full-stack development with expertise in scalable backend solutions. When I'm not coding, you can find me exploring new technologies or contributing to open-source projects.
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🔭 I'm currently working on **enhancing my full-stack development skills**
-- 🌱 I'm currently learning **advanced ML/AI techniques**
+- 🔭 I'm currently working on **A New Project (Will make it public soon)**
+- 🌱 I'm currently learning **DevOps and System Design (I try to solve LeetCode every day)**
 - 👯 I'm looking to collaborate on **innovative open-source projects**
-- 💬 Ask me about **JavaScript, Python, React, Machine Learning**
-- ⚡ Fun fact: **I love solving complex algorithmic problems**
+- 💬 Ask me about **Java, C++, JavaScript, TypeScript, Spring Boot, Spring, Node.js, React.js, Angular.js**
+- ⚡ Fun fact: **I love solving real-world problems with software solutiosn**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
