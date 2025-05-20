@@ -71,7 +71,7 @@ I'm a passionate developer interested in full-stack development with expertise i
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zanzo2003/zanzo2003/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/zanzo2003/zanzo2003/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- Wave -->
