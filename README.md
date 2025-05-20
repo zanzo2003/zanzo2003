@@ -17,11 +17,11 @@ I'm a passionate developer interested in full-stack development with expertise i
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 🔭 I'm currently working on **A New Project (Will make it public soon)**
-- 🌱 I'm currently learning **DevOps and System Design (I try to solve LeetCode every day)**
-- 👯 I'm looking to collaborate on **innovative open-source projects**
-- 💬 Ask me about **Java, C++, JavaScript, TypeScript, Spring Boot, Spring, Node.js, React.js, Angular.js**
-- ⚡ Fun fact: **I love solving real-world problems with software solutions**
+- 🔭 I'm currently working on **A New Project (Will make it public soon)** &nbsp;&nbsp;&nbsp;&nbsp;
+- 🌱 I'm currently learning **DevOps and System Design (I try to solve LeetCode every day)** &nbsp;&nbsp;&nbsp;&nbsp;
+- 👯 I'm looking to collaborate on **innovative open-source projects** &nbsp;&nbsp;&nbsp;&nbsp;
+- 💬 Ask me about **Java, C++, JavaScript, TypeScript, Spring Boot, Spring, Node.js, React.js, Angular.js** &nbsp;&nbsp;&nbsp;&nbsp;
+- ⚡ Fun fact: **I love solving real-world problems with software solutions** &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
