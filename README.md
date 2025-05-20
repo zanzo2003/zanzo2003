@@ -15,7 +15,7 @@
 
 I'm a passionate developer interested in full-stack development with expertise in scalable backend solutions. When I'm not coding, you can find me exploring new technologies or contributing to open-source projects.
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="300" align="left" hspace="20" vspace="10" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🔭 I'm currently working on **A New Project (Will make it public soon)**
 - 🌱 I'm currently learning **DevOps and System Design (I try to solve LeetCode every day)**
@@ -27,7 +27,7 @@ I'm a passionate developer interested in full-stack development with expertise i
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,cpp,java,spring,angular,rabbitmq,jenkins,keycloak,redis,postgres,mongodb,mysql,firebase,aws,docker,git,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,cpp,java,spring,angular,rabbitmq,jenkins,azure,bash,npm,redis,postgres,mongodb,mysql,firebase,aws,docker,git,vscode&perline=6)](https://skillicons.dev)
 
 </div>
 
